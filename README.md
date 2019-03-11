@@ -8,7 +8,7 @@ Basic idea was to perform 1 analysis a day to develop DS/ML skills, a better one
 
 Turns out, it's quite challanging indeed. For now project is in sleep mode. I add some analysis time to time with no pressure.
 
-I will definitly back to it.
+I will definitly back to it i 1 script a day mode for training purposes - just not now.
 
 #### Inside 
 Each analysis touches new data/problem and/or ways to solve it, also i try to keep the comments, graphs and problem descriptions in check.
